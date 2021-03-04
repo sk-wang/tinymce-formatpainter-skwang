@@ -1,5 +1,5 @@
 /**
- * free formatpainter plugin for tinymce
+ * A free formatpainter plugin for tinymce
  * @author:sk-wang
  * @page:https://github.com/sk-wang
  * @email:skvdhsh@gmail.com
