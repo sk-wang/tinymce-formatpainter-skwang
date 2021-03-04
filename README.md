@@ -2,7 +2,7 @@
 
 ### Description
 
-A free formatpainter plugin for tinymce
+A free formatpainter(格式刷) plugin for tinymce
 
 ### Usage
 
