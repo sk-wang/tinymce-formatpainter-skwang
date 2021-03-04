@@ -4,9 +4,6 @@
 
 A free formatpainter plugin for tinymce
 
-![image-20210304103235202](C:\Users\wangh\AppData\Roaming\Typora\typora-user-images\image-20210304103235202.png)
-
-
 ### Usage
 
 ```javascript
