@@ -1,10 +1,12 @@
 # tinymce-formatpainter-skwang
 
-### Description
+## Description
 
 A free formatpainter(格式刷) plugin for tinymce
 
-### Usage
+created from https://tinymce.martyfriedel.com/
+
+## Usage
 
 ```javascript
 tinymce.init({
@@ -15,4 +17,6 @@ tinymce.init({
     toolbar: "formatpainter",
 });
 ```
+
+
 
